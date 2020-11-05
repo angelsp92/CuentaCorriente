@@ -5,7 +5,8 @@ import java.util.List;
 import java.util.Vector;
 
 public class Cuenta {
-    /*protected String mNumero;
+    /*
+    protected String mNumero;
     protected String nTitutal;
     protected List<Movimiento> mMovimientos;
     
